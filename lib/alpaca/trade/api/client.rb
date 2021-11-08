@@ -129,6 +129,7 @@ module Alpaca
             stop_price: stop_price,
             take_profit: take_profit,
             stop_loss: stop_loss,
+            trail_percent: trail_percent,
             extended_hours: extended_hours,
             client_order_id: client_order_id
           }
